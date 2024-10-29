@@ -1,0 +1,9 @@
+apple
+app
+apples
+buscard
+cap
+capsule
+die
+INVALID_INPUT
+zebra
